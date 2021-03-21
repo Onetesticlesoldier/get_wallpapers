@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 18 23:54:11 2021
-
-@author: 帅比唐尧
-"""
 
 import requests      #爬虫
 import re            #正则表达式
